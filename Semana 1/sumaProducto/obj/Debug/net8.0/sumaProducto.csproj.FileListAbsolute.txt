@@ -1,0 +1,5 @@
+C:\C--ITLA\Semana 1\sumaProducto\obj\Debug\net8.0\sumaProducto.GeneratedMSBuildEditorConfig.editorconfig
+C:\C--ITLA\Semana 1\sumaProducto\obj\Debug\net8.0\sumaProducto.AssemblyInfoInputs.cache
+C:\C--ITLA\Semana 1\sumaProducto\obj\Debug\net8.0\sumaProducto.AssemblyInfo.cs
+C:\C--ITLA\Semana 1\sumaProducto\obj\Debug\net8.0\sumaProducto.csproj.CoreCompileInputs.cache
+C:\C--ITLA\Semana 1\sumaProducto\obj\Debug\net8.0\sumaProducto.sourcelink.json
