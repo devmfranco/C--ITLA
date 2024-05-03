@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\C--ITLA\\Semana 1\\sumaProducto\\",
+  "WorkspaceRootPath": "C:\\Csharp-Itla\\Semana 1\\sumaProducto\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BC9F39B0-C553-4379-9FE6-46151942C97B}|sumaProducto.csproj|c:\\c--itla\\semana 1\\sumaproducto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BC9F39B0-C553-4379-9FE6-46151942C97B}|sumaProducto.csproj|c:\\csharp-itla\\semana 1\\sumaproducto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BC9F39B0-C553-4379-9FE6-46151942C97B}|sumaProducto.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -14,24 +14,28 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\C--ITLA\\Semana 1\\sumaProducto\\Program.cs",
+              "DocumentMoniker": "C:\\Csharp-Itla\\Semana 1\\sumaProducto\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\C--ITLA\\Semana 1\\sumaProducto\\Program.cs",
-              "RelativeToolTip": "Program.cs",
+              "ToolTip": "C:\\Csharp-Itla\\Semana 1\\sumaProducto\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-02T18:12:55.309Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             },
             {
               "$type": "Bookmark",
