@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "l58NTpIVOT4BqNx4BzpivHtjogm9ZpZl32BFvfAPdAqAhBV6UBUMDMQH/Xx/ukJCBIZwrhjkfOg0HQp+VmDIFA==",
+  "dgSpecHash": "9ZMMM33/OT3R53bq/SrW67yjYJ75GwXDbGf/5AuGm3X2xIAg80sYPPY9t9KaBwGPO92+i1d1AQS1ybRGrkTkww==",
   "success": true,
-  "projectFilePath": "C:\\C--ITLA\\Semana 1\\sumaProducto\\sumaProducto.csproj",
+  "projectFilePath": "C:\\Curso Csharp-Itla\\Semana 1\\sumaProducto\\sumaProducto.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
