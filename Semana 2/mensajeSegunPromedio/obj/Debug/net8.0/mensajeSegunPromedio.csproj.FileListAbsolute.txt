@@ -1,0 +1,15 @@
+C:\Curso Csharp-Itla\Semana 2\mensajeSegunPromedio\bin\Debug\net8.0\mensajeSegunPromedio.exe
+C:\Curso Csharp-Itla\Semana 2\mensajeSegunPromedio\bin\Debug\net8.0\mensajeSegunPromedio.deps.json
+C:\Curso Csharp-Itla\Semana 2\mensajeSegunPromedio\bin\Debug\net8.0\mensajeSegunPromedio.runtimeconfig.json
+C:\Curso Csharp-Itla\Semana 2\mensajeSegunPromedio\bin\Debug\net8.0\mensajeSegunPromedio.dll
+C:\Curso Csharp-Itla\Semana 2\mensajeSegunPromedio\bin\Debug\net8.0\mensajeSegunPromedio.pdb
+C:\Curso Csharp-Itla\Semana 2\mensajeSegunPromedio\obj\Debug\net8.0\mensajeSegunPromedio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso Csharp-Itla\Semana 2\mensajeSegunPromedio\obj\Debug\net8.0\mensajeSegunPromedio.AssemblyInfoInputs.cache
+C:\Curso Csharp-Itla\Semana 2\mensajeSegunPromedio\obj\Debug\net8.0\mensajeSegunPromedio.AssemblyInfo.cs
+C:\Curso Csharp-Itla\Semana 2\mensajeSegunPromedio\obj\Debug\net8.0\mensajeSegunPromedio.csproj.CoreCompileInputs.cache
+C:\Curso Csharp-Itla\Semana 2\mensajeSegunPromedio\obj\Debug\net8.0\mensajeSegunPromedio.sourcelink.json
+C:\Curso Csharp-Itla\Semana 2\mensajeSegunPromedio\obj\Debug\net8.0\mensajeSegunPromedio.dll
+C:\Curso Csharp-Itla\Semana 2\mensajeSegunPromedio\obj\Debug\net8.0\refint\mensajeSegunPromedio.dll
+C:\Curso Csharp-Itla\Semana 2\mensajeSegunPromedio\obj\Debug\net8.0\mensajeSegunPromedio.pdb
+C:\Curso Csharp-Itla\Semana 2\mensajeSegunPromedio\obj\Debug\net8.0\mensajeSegunPromedio.genruntimeconfig.cache
+C:\Curso Csharp-Itla\Semana 2\mensajeSegunPromedio\obj\Debug\net8.0\ref\mensajeSegunPromedio.dll
