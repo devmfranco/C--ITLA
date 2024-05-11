@@ -1,0 +1,15 @@
+C:\Curso Csharp-Itla\Semana 3\SumayProductoNumeros\bin\Debug\net8.0\SumayProductoNumeros.exe
+C:\Curso Csharp-Itla\Semana 3\SumayProductoNumeros\bin\Debug\net8.0\SumayProductoNumeros.deps.json
+C:\Curso Csharp-Itla\Semana 3\SumayProductoNumeros\bin\Debug\net8.0\SumayProductoNumeros.runtimeconfig.json
+C:\Curso Csharp-Itla\Semana 3\SumayProductoNumeros\bin\Debug\net8.0\SumayProductoNumeros.dll
+C:\Curso Csharp-Itla\Semana 3\SumayProductoNumeros\bin\Debug\net8.0\SumayProductoNumeros.pdb
+C:\Curso Csharp-Itla\Semana 3\SumayProductoNumeros\obj\Debug\net8.0\SumayProductoNumeros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso Csharp-Itla\Semana 3\SumayProductoNumeros\obj\Debug\net8.0\SumayProductoNumeros.AssemblyInfoInputs.cache
+C:\Curso Csharp-Itla\Semana 3\SumayProductoNumeros\obj\Debug\net8.0\SumayProductoNumeros.AssemblyInfo.cs
+C:\Curso Csharp-Itla\Semana 3\SumayProductoNumeros\obj\Debug\net8.0\SumayProductoNumeros.csproj.CoreCompileInputs.cache
+C:\Curso Csharp-Itla\Semana 3\SumayProductoNumeros\obj\Debug\net8.0\SumayProductoNumeros.sourcelink.json
+C:\Curso Csharp-Itla\Semana 3\SumayProductoNumeros\obj\Debug\net8.0\SumayProductoNumeros.dll
+C:\Curso Csharp-Itla\Semana 3\SumayProductoNumeros\obj\Debug\net8.0\refint\SumayProductoNumeros.dll
+C:\Curso Csharp-Itla\Semana 3\SumayProductoNumeros\obj\Debug\net8.0\SumayProductoNumeros.pdb
+C:\Curso Csharp-Itla\Semana 3\SumayProductoNumeros\obj\Debug\net8.0\SumayProductoNumeros.genruntimeconfig.cache
+C:\Curso Csharp-Itla\Semana 3\SumayProductoNumeros\obj\Debug\net8.0\ref\SumayProductoNumeros.dll
