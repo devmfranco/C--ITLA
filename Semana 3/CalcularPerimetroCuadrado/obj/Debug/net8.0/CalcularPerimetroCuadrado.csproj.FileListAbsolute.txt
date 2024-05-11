@@ -1,0 +1,15 @@
+C:\Curso Csharp-Itla\Semana 3\CalcularPerimetroCuadrado\bin\Debug\net8.0\CalcularPerimetroCuadrado.exe
+C:\Curso Csharp-Itla\Semana 3\CalcularPerimetroCuadrado\bin\Debug\net8.0\CalcularPerimetroCuadrado.deps.json
+C:\Curso Csharp-Itla\Semana 3\CalcularPerimetroCuadrado\bin\Debug\net8.0\CalcularPerimetroCuadrado.runtimeconfig.json
+C:\Curso Csharp-Itla\Semana 3\CalcularPerimetroCuadrado\bin\Debug\net8.0\CalcularPerimetroCuadrado.dll
+C:\Curso Csharp-Itla\Semana 3\CalcularPerimetroCuadrado\bin\Debug\net8.0\CalcularPerimetroCuadrado.pdb
+C:\Curso Csharp-Itla\Semana 3\CalcularPerimetroCuadrado\obj\Debug\net8.0\CalcularPerimetroCuadrado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso Csharp-Itla\Semana 3\CalcularPerimetroCuadrado\obj\Debug\net8.0\CalcularPerimetroCuadrado.AssemblyInfoInputs.cache
+C:\Curso Csharp-Itla\Semana 3\CalcularPerimetroCuadrado\obj\Debug\net8.0\CalcularPerimetroCuadrado.AssemblyInfo.cs
+C:\Curso Csharp-Itla\Semana 3\CalcularPerimetroCuadrado\obj\Debug\net8.0\CalcularPerimetroCuadrado.csproj.CoreCompileInputs.cache
+C:\Curso Csharp-Itla\Semana 3\CalcularPerimetroCuadrado\obj\Debug\net8.0\CalcularPerimetroCuadrado.sourcelink.json
+C:\Curso Csharp-Itla\Semana 3\CalcularPerimetroCuadrado\obj\Debug\net8.0\CalcularPerimetroCuadrado.dll
+C:\Curso Csharp-Itla\Semana 3\CalcularPerimetroCuadrado\obj\Debug\net8.0\refint\CalcularPerimetroCuadrado.dll
+C:\Curso Csharp-Itla\Semana 3\CalcularPerimetroCuadrado\obj\Debug\net8.0\CalcularPerimetroCuadrado.pdb
+C:\Curso Csharp-Itla\Semana 3\CalcularPerimetroCuadrado\obj\Debug\net8.0\CalcularPerimetroCuadrado.genruntimeconfig.cache
+C:\Curso Csharp-Itla\Semana 3\CalcularPerimetroCuadrado\obj\Debug\net8.0\ref\CalcularPerimetroCuadrado.dll

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("mensajeSegunPromedio")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d46d0a2a0671ce0af66b7bc6ea03651dc544aa11")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+afa67a1e4a14f9ab470f7d30398ac9658b868c52")]
 [assembly: System.Reflection.AssemblyProductAttribute("mensajeSegunPromedio")]
 [assembly: System.Reflection.AssemblyTitleAttribute("mensajeSegunPromedio")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
