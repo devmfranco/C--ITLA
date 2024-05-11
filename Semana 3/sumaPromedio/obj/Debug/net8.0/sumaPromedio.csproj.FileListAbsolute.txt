@@ -1,0 +1,5 @@
+C:\Curso Csharp-Itla\Semana 3\sumaPromedio\obj\Debug\net8.0\sumaPromedio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso Csharp-Itla\Semana 3\sumaPromedio\obj\Debug\net8.0\sumaPromedio.AssemblyInfoInputs.cache
+C:\Curso Csharp-Itla\Semana 3\sumaPromedio\obj\Debug\net8.0\sumaPromedio.AssemblyInfo.cs
+C:\Curso Csharp-Itla\Semana 3\sumaPromedio\obj\Debug\net8.0\sumaPromedio.csproj.CoreCompileInputs.cache
+C:\Curso Csharp-Itla\Semana 3\sumaPromedio\obj\Debug\net8.0\sumaPromedio.sourcelink.json
